@@ -1,1 +1,9 @@
 # Web-Corpora-Operations
+
+A utilização de estatísticas de palavras na Internet desempenha um papel fundamental no estudo e na compreensão da linguagem utilizada em diferentes contextos.  No entanto, muitos linguistas enfrentam desafios ao tentar obter essas estatísticas de maneira eficiente e precisa, especialmente se não possuem conhecimentos avançados de programação. Para ajudar a preencher essa lacuna, foi desenvolvida uma aplicação web inovadora que visa facilitar o acesso e a análise de estatísticas de palavras a partir de posts provenientes da rede social Twitter.
+
+O objetivo principal desta aplicação é fornecer uma ferramenta de auxílio para linguistas e outros profissionais interessados em explorar e compreender o uso das palavras em diferentes contextos na Internet. Com uma interface intuitiva e amigável, a aplicação permite que os utilizadores realizem pesquisas personalizadas, de forma a obterem dados pertinentes sem a necessidade de habilidades avançadas na área da tecnologia.
+
+As funcionalidades da aplicação são projetadas para atenderem às necessidades específicas dos utilizadores. Ao inserir palavras ou frases interessantes, juntamente com as datas desejadas, os utilizadores podem aceder a uma tabela abrangente de tweets que correspondam às suas especificações. Além disso, a aplicação oferece a possibilidade de visualizar gráficos que apresentam as tendências de ocorrência da palavra/frase ao longo do tempo, proporcionando uma análise mais aprofundada.
+
+Embora inicialmente direcionada à linguística computacional, a aplicação também pode ser útil para outros utilizadores que procuram obter informações sobre o uso de palavras em diferentes contextos. Por exemplo, profissionais de marketing podem utilizar esta ferramenta para analisar as tendências de palavras-chave relacionadas com os seus produtos ou serviços, auxiliando em estratégias de campanha e na tomada de determinadas decisões.
