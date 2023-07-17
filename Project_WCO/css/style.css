@@ -1,0 +1,19 @@
+.item{
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    margin: 8px;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.selecionado{
+    background-color: #ffffff;
+    color: #395d73;
+}
+
+.nao-selecionado{
+    background-color: #395d73;
+    color: #ffffff;
+}
